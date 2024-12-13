@@ -1,5 +1,5 @@
 
-- 👀 一位IT民工自我修炼备忘录
+- 👀 An Internet migrant worker who has learned a lot from failures in practical operations
 
 <!---
 kivenyangming/kivenyangming is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
